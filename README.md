@@ -3,6 +3,10 @@
 <!--
 **John-Rocha/John-Rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+My name is Johnathan Rocha and I am a Computer Science student, I live in Macapá-AP, Brazil and I am looking for opportunities as a jr systems analyst.
+Contact me on:
+[LinkedIn] (https://www.linkedin.com/in/johnathan-rocha-27574a191/)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
