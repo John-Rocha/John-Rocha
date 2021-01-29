@@ -24,7 +24,7 @@
         <li>🔧 &nbsp; Android Studio | Postman | Visual Studio code | Chrome | Git</li>
     </ul>
 [![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Rocha&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/John-Rocha/github-readme-stats)
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Rocha&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/John-Rocha/github-readme-stats)]
 
 <h3> 🤝🏻 Connect with Me </h3>
 
