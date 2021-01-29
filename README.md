@@ -25,7 +25,7 @@
     </ul>
     <br>    
     
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Rocha&show_icons=true)
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Rocha&show_icons=true&layout=compact&text_color=daf7dc&bg_color=151515)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Rocha&layout=compact&text_color=daf7dc&bg_color=151515)
 
