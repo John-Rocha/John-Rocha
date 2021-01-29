@@ -23,6 +23,7 @@
     - 🌐 &nbsp; NodeJs | Flutter | HTML | CSS | JavaScript | Bootstrap | Laravel | .Net
     - 🛢 &nbsp; MySQL | Firebase | Xampp
     - 🔧 &nbsp; Android Studio | Postman | Visual Studio code | Chrome | Git
+    </br>
     </summary>
 
 
