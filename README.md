@@ -1,5 +1,5 @@
 <h2> Hey there! I'm John. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300" />
 <p>My name is Johnathan Rocha and I am a Computer Science student, I live in Macapá-AP, Brazil and I am looking for
     opportunities as a jr systems analyst. </p>
 
