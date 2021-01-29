@@ -2,7 +2,6 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" />
 <p>My name is Johnathan Rocha and I am a Computer Science student, I live in Macapá-AP, Brazil and I am looking for
     opportunities as a jr systems analyst. </p>
-<p>Contact me on: <a href="https://www.linkedin.com/in/johnathan-rocha-27574a191/">LinkedIn</a></p>
 
 <details>
     <summary> <b>Things to know about me!</b> <i>(click to expand)</i> </summary>
@@ -25,9 +24,12 @@
         <li>🔧 &nbsp; Android Studio | Postman | Visual Studio code | Chrome | Git</li>
     </ul>
     <br>
-    [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Rocha&show_icons=true)]
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=John-Rocha&show_icons=true" alt="">
     <br>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Rocha&layout=compact&text_color=daf7dc&bg_color=151515)]
+    
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Rocha&show_icons=true)]
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Rocha&layout=compact&text_color=daf7dc&bg_color=151515)]
 
 <h3> 🤝🏻 Connect with Me </h3>
 
