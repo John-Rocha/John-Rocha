@@ -23,9 +23,7 @@
         <li>🛢 &nbsp; MySQL | Firebase | Xampp</li>
         <li>🔧 &nbsp; Android Studio | Postman | Visual Studio code | Chrome | Git</li>
     </ul>
-    <br>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=John-Rocha&show_icons=true" alt="">
-    <br>
+    <br>    
     
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Rocha&show_icons=true)]
 <br>
