@@ -1,5 +1,6 @@
-### Hello World! 👋
+### Hello World, I'm John 👋
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <p>name is Johnathan Rocha and I am a Computer Science student, I live in Macapá-AP, Brazil and I am looking for opportunities as a jr systems analyst. </p>
 <p>Contact me on: <a href="https://www.linkedin.com/in/johnathan-rocha-27574a191/">LinkedIn</a></p>
 
