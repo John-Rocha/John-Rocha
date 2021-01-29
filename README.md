@@ -6,7 +6,7 @@
 <p>Contact me on: <a href="https://www.linkedin.com/in/johnathan-rocha-27574a191/">LinkedIn</a></p>
 
 <details>
-    <summary> <b>Things to know about me!</b> <i>(click to expand)</i> 
+    <summary> <b>Things to know about me!</b> <i>(click to expand)</i> </details>
     <br>
     <h3> 👨🏻‍💻 About Me </h3>
     - 🔭 &nbsp; I’m currently learning Flutter and Web Applications Development
@@ -24,7 +24,7 @@
     - 🛢 &nbsp; MySQL | Firebase | Xampp
     - 🔧 &nbsp; Android Studio | Postman | Visual Studio code | Chrome | Git
     </summary>
-</details>
+
 
 
 
