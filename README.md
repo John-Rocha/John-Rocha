@@ -1,6 +1,6 @@
 <h2> Hey there! I'm John.</h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300" />
-<p>My name is Johnathan Rocha and I am a Computer Science student, I live in Macapá-AP, Brazil and I am looking for
+<p>My name is Johnathan Rocha and I am a Computer Science student, I live in Floripa-SC, Brazil and I am looking for
     opportunities as a jr systems analyst. </p>
 
 <details>
@@ -8,7 +8,7 @@
     <br>
     <h3> 👨🏻‍💻 About Me </h3>
     <ul>
-        <li>🔭 &nbsp; I’m currently learning Flutter and Web Applications Development</li>
+        <li>🔭 &nbsp; I’m currently work and learning with Flutter</li>
         <li>🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.</li>
         <li>🎓 &nbsp; Studying Computer Science, computer programming and requirements analysis.</li>
         <li>💼 &nbsp; Requirements analysis.</li>
