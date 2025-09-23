@@ -1,54 +1,65 @@
-<h2> Hey there! I'm John.</h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300" />
-<p>My name is Johnathan Rocha and I am a Computer Science student, I live in Floripa-SC, Brazil and I am looking for
-    opportunities as a jr systems analyst. </p>
+# 👋 Olá, eu sou o Johnathan Rocha  
 
-<details>
-    <summary> <b>Things to know about me!</b> <i>(click to expand)</i> </summary>
-    <br>
-    <h3> 👨🏻‍💻 About Me </h3>
-    <ul>
-        <li>🔭 &nbsp; I’m currently work and learning with Flutter</li>
-        <li>🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.</li>
-        <li>🎓 &nbsp; Studying Computer Science, computer programming and requirements analysis.</li>
-        <li>💼 &nbsp; Requirements analysis.</li>
-        <li>🌱 &nbsp; Enthusiast in mobile and web applications .</li>
-        <li>✍️ &nbsp; Watching Anime, study and playing videogames as hobbies/side hustles.</li>
-        <li>☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.</li>
-    </ul>
-    <h3> 🛠 Tech Stack </h3>
-    <ul>
-        <li>💻 &nbsp; JavaScript | Dart | PHP | C#</li>
-        <li>🌐 &nbsp; NodeJs | Flutter | HTML | CSS | JavaScript | Bootstrap | Laravel | .Net</li>
-        <li>🛢 &nbsp; MySQL | Firebase | Xampp</li>
-        <li>🔧 &nbsp; Android Studio | Postman | Visual Studio code | Chrome | Git</li>
-    </ul>
-    <br>    
-    
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Rocha&show_icons=true&layout=compact&text_color=daf7dc&bg_color=151515)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Rocha&layout=compact&text_color=daf7dc&bg_color=151515)
+Sou **Desenvolvedor Flutter Sênior** apaixonado por tecnologia, arquitetura limpa e criação de soluções digitais de impacto.  
+Atualmente trabalho como **Analista de Sistemas, Desenvolvedor e Analista de Requisitos**, desenvolvendo aplicações mobile e web para ecossistemas digitais em diversas frentes de negócio.  
 
-<h3> 🤝🏻 Connect with Me </h3>
+---
 
-<p align="center">
-    &nbsp; <a href="https://www.instagram.com/johnrocha_/" target="_blank" rel="noopener noreferrer"><img
-            src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
-    &nbsp; <a href="https://www.linkedin.com/in/johnathan-rocha-27574a191/" target="_blank" rel="noopener noreferrer"><img
-            src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-    &nbsp; <a href="mailto:johnathanrocha@gmail.com" target="_blank" rel="noopener noreferrer"><img
-            src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
-</p>
-</details>
+## 🚀 Tecnologias e Stacks que já atuei
 
-<!-- Here are some ideas to get you started:
+### 📱 Mobile
+- **Flutter** (apps nativos cross-platform)  
+- **Gerenciamento de Estado**: BLoC / Cubit, Riverpod  
+- **Injeção de Dependências**: GetIt  
+- **Internacionalização**: Slang  
+- **Navegação**: go_router, Modular  
+- **Integrações**: Firebase (Auth, Firestore, Cloud Messaging, Remote Config, Functions), Device Info, Geolocator, Google Maps, Video Compress  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 UI & Design System
+- **Componentização** e **animações customizadas** em Flutter  
+- Adequação de telas a **prototipagens Figma** e **tokens de design**  
+
+### 🏗️ Arquitetura & Boas Práticas
+- **Clean Architecture** e **SOLID**  
+- Modularização de projetos (monorepo com Melos)  
+- **Testes unitários** (bloc_test, mocktail)  
+
+### 🌐 Backend & APIs
+- **Node.js / TypeScript** (NestJS, Fastify, Express)  
+- **Autenticação JWT** (signIn, signOut, refresh token, social login Google/Apple)  
+- **Banco de Dados**: PostgreSQL (Prisma, Drizzle, Migrations)  
+- **Python** (FastAPI, Alembic, scripts)  
+- **Automação**: n8n, EvolutionAPI, automações com Postgres  
+- Criação de **BFFs** e orquestradores para consumo de microsserviços  
+
+### ☁️ Infra & DevOps
+- **Firebase Hosting & Functions**  
+- **Fly.io**  
+- **CI/CD com GitHub Actions**   
+- Experiência com **FVM** para versionamento de Flutter  
+
+### 📚 Acadêmico & Estudos
+- **Projeto e Análise de Algoritmos**  
+- Desenvolvimento de **TCC** sobre Inteligência Artificial aplicada à educação (Q&A entre alunos e professores via app Flutter)  
+
+---
+
+## 💡 Projetos de Destaque
+- **Ailos Mobile**: Manutenção e evolução de módulos (Pix, Cadastro Digital, Pagamentos, Investimentos, Onboarding, etc.)  
+- **Amapá Points** 🌍: Aplicativo de turismo no Amapá (mapas interativos, cupons digitais, rotas via Google Maps, backend em Node.js/Postgres).  
+
+---
+
+## 🌎 Sobre mim
+- 🔭 Atualmente trabalhando em soluções financeiras e apps de turismo.  
+- 🎓 Estudando e aprofundando conhecimentos em **ReactJS**.  
+- 💍 Casado ❤️ (2025)  
+
+📫 Como me encontrar:  
+- [LinkedIn](https://www.linkedin.com/in/johnathanrocha)  
+- [Portfólio Flutter (em construção)](#)  
+- [E-mail](mailto:johnathanrocha@gmail.com)  
+- [WhatsApp](https://wa.me/5548996107270)  
+
+---
+⭐️ *Se curtiu meu trabalho, considere dar um follow aqui no GitHub!*  
