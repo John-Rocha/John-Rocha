@@ -56,7 +56,7 @@ Atualmente trabalho como **Analista de Sistemas, Desenvolvedor e Analista de Req
 - 💍 Casado ❤️ (2025)  
 
 📫 Como me encontrar:  
-- [LinkedIn](https://www.linkedin.com/in/johnathanrocha)  
+- [LinkedIn](https://www.linkedin.com/in/johnathan-rocha)  
 - [Portfólio Flutter (em construção)](#)  
 - [E-mail](mailto:johnathanrocha@gmail.com)  
 - [WhatsApp](https://wa.me/5548996107270)  
